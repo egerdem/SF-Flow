@@ -1,0 +1,11 @@
+data/
+experiments/
+wandb/
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+*.pt
+!coord_stats_*.pt
+release_checkpoints/
+.idea/
